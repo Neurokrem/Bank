@@ -1,0 +1,76 @@
+[
+    {
+        "company": "Firma d.o.o.",
+        "street": "Radni\u010dka cesta 32",
+        "PB": 10000,
+        "HQ": "Zagreb",
+        "OIB": 98012332145,
+        "account_holder": "Pero Ivi\u0107",
+        "acc_type": "EUR",
+        "account": "BA-2023-10-00001",
+        "balance": 30,
+        "transactions": [
+            "-3",
+            "+2",
+            "-5",
+            "+8",
+            "-5",
+            "+6",
+            "-3",
+            "-3",
+            "-4",
+            "-4",
+            "-0"
+        ]
+    },
+    {
+        "company": "Metalogradnja",
+        "street": "Kotura\u0161ka 26",
+        "PB": 10000,
+        "HQ": "Zagreb",
+        "OIB": 45678912301,
+        "account_holder": "Karlo Karli\u0107",
+        "acc_type": "HRK",
+        "account": "BA-2023-10-00002",
+        "balance": 39,
+        "transactions": [
+            "-4",
+            "-2",
+            "-5",
+            "+3",
+            "+9",
+            "+0"
+        ]
+    },
+    {
+        "company": "Rent-a-kmet d.d.",
+        "street": "Taborgradska 1A",
+        "PB": 52333,
+        "HQ": "Veliki Tabor",
+        "OIB": 11122233344,
+        "account_holder": "Franjo Tahy",
+        "acc_type": "EUR",
+        "account": "BA-2023-10-00003",
+        "balance": 1576,
+        "transactions": [
+            "-80",
+            "+3",
+            "+80"
+        ]
+    },
+    {
+        "company": "Rimac d.d.",
+        "street": "Ljubljanska ul. 7",
+        "PB": 10431,
+        "HQ": "Sveta Nedelja",
+        "OIB": 53943536946,
+        "account_holder": "Mate Rimac",
+        "acc_type": "EUR",
+        "account": "BA-2023-10-00004",
+        "balance": 10000,
+        "transactions": [
+            "+20",
+            "-20"
+        ]
+    }
+]

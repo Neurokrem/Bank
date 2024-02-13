@@ -1,0 +1,77 @@
+[
+    {
+        "company": "Company Ltd.",
+        "street": "Main St.",
+        "PB": 43215,
+        "HQ": "Columbus, OH",
+        "PIN": 98012332145,
+        "account_holder": "John Doe",
+        "acc_type": "USD",
+        "account": "BA-2023-10-00001",
+        "balance": 30,
+        "transactions": [
+            "-3",
+            "+2",
+            "-5",
+            "+8",
+            "-5",
+            "+6",
+            "-3",
+            "-3",
+            "-4",
+            "-4",
+            "-0"
+        ]
+    },
+    {
+        "company": "Bayer AG",
+        "street": "Kaiser-Wilhelm-Allee 1",
+        "PB": 51373,
+        "HQ": "Leverkusen",
+        "PIN": 45678912301,
+        "account_holder": "Werner Baumann",
+        "acc_type": "EUR",
+        "account": "BA-2023-10-00002",
+        "balance": 39,
+        "transactions": [
+            "-4",
+            "-2",
+            "-5",
+            "+3",
+            "+9",
+            "+0"
+        ]
+    },
+    {
+        "company": "Rent-a-kmet d.d.",
+        "street": "Taborgradska 1A",
+        "PB": 52333,
+        "HQ": "Veliki Tabor",
+        "PIN": 11122233344,
+        "account_holder": "Franjo Tahy",
+        "acc_type": "EUR",
+        "account": "BA-2023-10-00003",
+        "balance": 1573,
+        "transactions": [
+            "-80",
+            "+3",
+            "+80",
+            "-3"
+        ]
+    },
+    {
+        "company": "Ford inc.",
+        "street": "600 E. Long Lake Road",
+        "PB": 48230,
+        "HQ": "Detroit, MI",
+        "PIN": 99988877766,
+        "account_holder": "Henry Ford",
+        "acc_type": "USD",
+        "account": "BA-2023-10-00004",
+        "balance": 10000,
+        "transactions": [
+            "+20",
+            "-20"
+        ]
+    }
+]
